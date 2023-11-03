@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 /*<p> Programa suma, para calcular la suma de dos valores introduidos por teclado
  * @version v1.0 
  * @author Miquel
