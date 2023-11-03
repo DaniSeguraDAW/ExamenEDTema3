@@ -7,7 +7,7 @@ public class FuncionSuma {
 	
 	
 	private static int primerSumando;
-	
+
 	private static int segundoSumando; 
 	
 	public static void main(String[] args) {
